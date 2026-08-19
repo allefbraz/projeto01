@@ -1,2 +1,4 @@
 Vai dar namoro;fabio;EMPRESTADO
 Vai dar namoro;fabio;DEVOLVIDO
+Fabio faixa preta;allef;EMPRESTADO
+Fabio faixa preta;allef;DEVOLVIDO
